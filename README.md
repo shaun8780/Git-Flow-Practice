@@ -13,7 +13,8 @@
 - [ ] Create a Pull Request through the top menu of the repository on GitHub; click the green New Pull Request button, then use your own student fork as the base to compare myuser/firstName-lastName to myuser/main. *DO NOT MERGE THE PULL REQUEST!*
 
 
-## ADD your name to this list
+- Shaun Jones
+
 - Steve Rogers
 - Ryan Hamblin
 
